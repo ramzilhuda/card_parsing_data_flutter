@@ -1,6 +1,8 @@
 # card_parsing_data_flutter
 
-A new Flutter project.
+Card Parsing Data
+
+![card](https://user-images.githubusercontent.com/60292040/73545250-8e6f3c00-446d-11ea-842e-cb1412f99b1a.jpg)
 
 ## Getting Started
 
